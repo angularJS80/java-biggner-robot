@@ -1,0 +1,3 @@
+public class Body {
+    // 몸통은 기능이 없다....
+}
